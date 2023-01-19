@@ -1,0 +1,7 @@
+D:\C# Assignments\Await_Exception\bin\Debug\Await_Exception.exe.config
+D:\C# Assignments\Await_Exception\bin\Debug\Await_Exception.exe
+D:\C# Assignments\Await_Exception\bin\Debug\Await_Exception.pdb
+D:\C# Assignments\Await_Exception\obj\Debug\Await_Exception.csprojAssemblyReference.cache
+D:\C# Assignments\Await_Exception\obj\Debug\Await_Exception.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Await_Exception\obj\Debug\Await_Exception.exe
+D:\C# Assignments\Await_Exception\obj\Debug\Await_Exception.pdb
